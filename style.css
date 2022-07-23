@@ -64,7 +64,7 @@ body {
     height: 30px;
     width: 30px;
     display: flex;
-    align-items: center;
+    align-items: center; 
     justify-content: center;
     border: 3px solid #e0e0e0;
     transition: .4s ease;
